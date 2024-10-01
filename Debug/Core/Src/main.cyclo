@@ -1,5 +1,10 @@
-../Core/Src/main.c:71:5:main	1
-../Core/Src/main.c:146:6:SystemClock_Config	3
-../Core/Src/main.c:183:6:HAL_UART_RxCpltCallback	2
-../Core/Src/main.c:203:6:HAL_TIM_PeriodElapsedCallback	2
-../Core/Src/main.c:222:6:Error_Handler	1
+../Core/Src/main.c:88:5:main	2
+../Core/Src/main.c:159:6:SystemClock_Config	3
+../Core/Src/main.c:193:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:211:9:getControlPeriodFlag	1
+../Core/Src/main.c:215:6:setControlPeriodFlag	1
+../Core/Src/main.c:219:15:KalmanFilterSpeed	1
+../Core/Src/main.c:246:7:calculatePosition	3
+../Core/Src/main.c:265:6:HAL_TIM_IC_CaptureCallback	3
+../Core/Src/main.c:277:6:HAL_TIM_PeriodElapsedCallback	5
+../Core/Src/main.c:312:6:Error_Handler	1

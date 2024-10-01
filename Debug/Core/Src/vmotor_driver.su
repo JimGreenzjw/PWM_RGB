@@ -1,0 +1,3 @@
+../Core/Src/vmotor_driver.c:21:7:getMotorPos	4	static
+../Core/Src/vmotor_driver.c:31:7:getMotorVel	4	static
+../Core/Src/vmotor_driver.c:41:6:setMotorCur	24	static

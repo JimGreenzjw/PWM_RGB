@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pid_controller.h": "c",
+        "vmotor_driver.h": "c"
+    }
+}

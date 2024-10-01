@@ -1,0 +1,3 @@
+../Core/Src/servo_ctrl.c:18:6:servoCtrlInit	1
+../Core/Src/servo_ctrl.c:32:6:servoSetGoalPos	1
+../Core/Src/servo_ctrl.c:42:6:servoCtrlLoop	3

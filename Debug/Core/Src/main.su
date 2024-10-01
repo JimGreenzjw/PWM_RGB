@@ -1,5 +1,10 @@
-../Core/Src/main.c:71:5:main	64	static
-../Core/Src/main.c:146:6:SystemClock_Config	72	static
-../Core/Src/main.c:183:6:HAL_UART_RxCpltCallback	24	static
-../Core/Src/main.c:203:6:HAL_TIM_PeriodElapsedCallback	72	static
-../Core/Src/main.c:222:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/main.c:88:5:main	24	static
+../Core/Src/main.c:159:6:SystemClock_Config	72	static
+../Core/Src/main.c:193:6:HAL_UART_RxCpltCallback	24	static
+../Core/Src/main.c:211:9:getControlPeriodFlag	4	static
+../Core/Src/main.c:215:6:setControlPeriodFlag	16	static
+../Core/Src/main.c:219:15:KalmanFilterSpeed	80	static
+../Core/Src/main.c:246:7:calculatePosition	24	static
+../Core/Src/main.c:265:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:277:6:HAL_TIM_PeriodElapsedCallback	32	static
+../Core/Src/main.c:312:6:Error_Handler	4	static,ignoring_inline_asm
